@@ -12,6 +12,8 @@ Please send patches to bugzilla (http://bugzilla.icculus.org/), you can also
 submit merge requests via our gitorious installation at http://git.iodoom.org,
 or join the mailing list (http://lists.iodoom.org/) and submit your patch there.
 
+Please only submit your own code.
+
 The focus for iod3 is to develop a stable base suitable for further development
 and provide players with the same Doom 3 experience they've had for years. As
 such iod3 does not have any significant graphical enhancements and none are
